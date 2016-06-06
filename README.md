@@ -1,5 +1,9 @@
 # git-workshop
 
+An introduction to collaborative coding and open source via the wonderful world of version control.
+
+*Version 1.0, for Workshop on June 11th*
+
 ##Before the workshop
 
 ###Install Git
