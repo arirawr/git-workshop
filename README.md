@@ -38,4 +38,6 @@ Set your name and email:
 
 ###Make a Github Account
 
+If you're viewing this, you're probably already on Github.com. Go ahead and make an account!
+
 ##During the workshop
