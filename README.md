@@ -2,7 +2,7 @@
 
 ##Before the workshop
 
-####Install git
+###Install Git
 
 *Full instructions for installing git can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).*
 
@@ -24,12 +24,14 @@ Use the appropriate package manager for your flavour of Linux:
 
 `$ sudo apt-get install git-all`
 
-####Configure your settings
+###Configure Your Settings
 
 Set your name and email:
 
 `git config --global user.name "John Doe"`
 
 `git config --global user.email johndoe@example.com`
+
+###Make a Github Account
 
 ##During the workshop
