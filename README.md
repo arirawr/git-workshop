@@ -1,3 +1,6 @@
+# CitronDigital
+http://citron.digital
+
 # git-workshop
 
 An introduction to collaborative coding and open source via the wonderful world of version control.
