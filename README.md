@@ -62,4 +62,4 @@ You'll see that you have some unstaged changes! Add them to your staging area us
 
 `git status` again and you'll see that the changes are now "staged".
 
-
+Once you're happy with your changes, use `git commit -m "Your message"` to commit them! A commit is a record of changes in the repository. Later on, you'll be able to see your changes at each commit, and roll back to a previous commit if necessary.
