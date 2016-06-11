@@ -46,7 +46,7 @@ If you're viewing this, you're probably already on Github.com. Go ahead and make
 
 Create a git repository using `git init`.
 
-Inside your repository, use `git status` to check the current status of the "working tree" (any changes you've made, files you're tracking, etc.) You'll want to use this command **very often**.
+Inside your repository, use `git status` to check the current status of the "working tree" (any changes you've made, files you're tracking, etc.) You'll be on a branch called `master`. You should use this command **very often**.
 
 Use `git checkout -b <branch>` to create and switch to a new branch named <branch> (pick your own branch name for this!)
 
@@ -63,3 +63,7 @@ You'll see that you have some unstaged changes! Add them to your staging area us
 `git status` again and you'll see that the changes are now "staged".
 
 Once you're happy with your changes, use `git commit -m "Your message"` to commit them! A commit is a record of changes in the repository. Later on, you'll be able to see your changes at each commit, and roll back to a previous commit if necessary.
+
+###Merging
+
+Now that you have some commits on your branch, you may want to update your `master` branch.
