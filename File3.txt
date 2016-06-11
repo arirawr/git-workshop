@@ -1,1 +1,2 @@
-3rd file in Branch13rd file in Branch13rd file in Branch1
+3rd file in Branch1
+2nd line in 3rd file
