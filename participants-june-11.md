@@ -7,4 +7,5 @@ Pull this repository, then make a commit that adds your name below!
 - Mathieu Chartier: @matchartier
 - Aliyah Jessa: @aliyahmaliyah
 - Marie-Eve Gauthier: @Marie-EveGauthier
+- Eric Rouleau: @xblitz
 
