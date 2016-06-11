@@ -2,4 +2,5 @@
 
 Pull this repository, then make a commit that adds your name below!
 
-- Arielle Vaniderstine
+- Arielle Vaniderstine: @arirawr
+
