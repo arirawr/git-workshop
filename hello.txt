@@ -1,4 +1,7 @@
-hi this is sushi 
+This is a file created by VIM
+*****************************
+Commit this!
 
+hi this is sushi 
 
  jkhdfdjsh
