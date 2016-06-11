@@ -1,0 +1,4 @@
+This is a file created by VIM
+*****************************
+Commit this!
+
