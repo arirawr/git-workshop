@@ -56,6 +56,10 @@ Go make some changes to the code in the repository. Add a file, change a line, e
 
 Now, try `git status`.
 
+You'll see that you have some unstaged changes! Add them to your staging area using `git add <filename>`.
 
+*You can also use `git add .` or `git add -A` to add all files in the directory, but this should be used with caution.*
+
+`git status` again and you'll see that the changes are now "staged".
 
 
