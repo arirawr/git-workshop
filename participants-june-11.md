@@ -8,3 +8,47 @@ Pull this repository, then make a commit that adds your name below!
 
 - Marie-Eve Gauthier: @Marie-EveGauthier
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Julie Roy: @Sudodu23
+
+
