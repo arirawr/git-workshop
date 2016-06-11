@@ -6,7 +6,7 @@
 
 `git merge citrondigital/participants`
 
-`git push origin your-branch-that-has-changes`
+`git push -f origin your-branch-that-has-changes`
 
 ###PROPER WAY
 
@@ -22,4 +22,4 @@ fix all the changes, follow the rebase instructions
 
 `git rebase --continue`
 
-`git push origin your-branch-that-has-changes`
+`git push -f origin your-branch-that-has-changes`
