@@ -1,3 +1,5 @@
+#REMEMBER TO USE `git status` IF YOU GET LOST. AND IF YOU DON'T GET LOST.
+
 ###QUICK AND DIRTY
 
 `git checkout your-branch-that-has-changes`
