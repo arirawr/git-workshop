@@ -1,5 +1,3 @@
-# CitronDigital
-http://citron.digital
 
 # git-workshop
 
