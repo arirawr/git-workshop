@@ -5,23 +5,23 @@ An introduction to collaborative coding and open source via the wonderful world 
 
 *Version 1.0, for Workshop on June 11th*
 
-##Before the workshop
+## Before the workshop
 
-###Install Git
+### Install Git
 
 *Full instructions for installing git can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).*
 
-#####Mac
+##### Mac
 
 With Mavericks or above, simply run the command `git` from Terminal.
 
 You can also use an installer, found [here](https://git-scm.com/download/mac).
 
-#####Windows
+##### Windows
 
 Use the installer [here](https://git-scm.com/download/win).
 
-#####Linux
+##### Linux
 
 Use the appropriate package manager for your flavour of Linux:
 
@@ -29,7 +29,7 @@ Use the appropriate package manager for your flavour of Linux:
 
 `$ sudo apt-get install git-all`
 
-###Configure Your Settings
+### Configure Your Settings
 
 Set your name and email:
 
@@ -37,13 +37,13 @@ Set your name and email:
 
 `git config --global user.email janedoe@example.com`
 
-###Make a Github Account
+### Make a GitHub Account
 
-If you're viewing this, you're probably already on Github.com. Go ahead and make an account!
+If you're viewing this, you're probably already on GitHub.com. Go ahead and make an account!
 
-##During the workshop
+## During the workshop
 
-###Basic Git
+### Basic Git
 
 Create a git repository using `git init`.
 
@@ -65,6 +65,6 @@ You'll see that you have some unstaged changes! Add them to your staging area us
 
 Once you're happy with your changes, use `git commit -m "Your message"` to commit them! A commit is a record of changes in the repository. Later on, you'll be able to see your changes at each commit, and roll back to a previous commit if necessary.
 
-###Merging
+### Merging
 
 Now that you have some commits on your branch, you may want to update your `master` branch.
